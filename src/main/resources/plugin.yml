@@ -1,0 +1,8 @@
+name: Ranks
+version: '${project.version}'
+main: ch.powercraft.ranks.Ranks
+api-version: '1.20'
+commands:
+  adminshop:
+    description: Set yourself on fire.
+#depend: [Vault]
